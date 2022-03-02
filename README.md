@@ -1,7 +1,5 @@
 ### Hi there 👋, It's me Abishek Khanal
 #### Design & Developer
-![Design & Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: HTML/CSS/JS/Bootstrap/PHP/JAVA/Android/Flutter
 
